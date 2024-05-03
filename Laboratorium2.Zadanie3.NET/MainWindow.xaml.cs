@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Laboratorium2.Zadanie3.NE;
+namespace Laboratorium2.Zadanie3.NET;
 
 /// <summary>
 /// Interaction logic for MainWindow.xaml
